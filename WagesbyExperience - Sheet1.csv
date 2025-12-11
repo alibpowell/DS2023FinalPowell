@@ -1,0 +1,92 @@
+,,,,
+Sector,Info ID,Low Experience,Medium Experience,High Experience
+29-0000 Healthcare Practitioners and Technical Occupations,A,$22.67,–,$32.21
+29-0000 Healthcare Practitioners and Technical Occupations,B,–,$25.61,$28.27
+29-0000 Healthcare Practitioners and Technical Occupations,C,–,–,$29.48
+29-0000 Healthcare Practitioners and Technical Occupations,D,–,$23.89,$27.93
+29-0000 Healthcare Practitioners and Technical Occupations,E,$21.50,$27.83,–
+29-0000 Healthcare Practitioners and Technical Occupations,F,–,$22.44,$28.07
+29-0000 Healthcare Practitioners and Technical Occupations,G,$24.26,$30.87,$31.91
+29-0000 Healthcare Practitioners and Technical Occupations,H,–,–,$29.74
+29-0000 Healthcare Practitioners and Technical Occupations,I,–,$32.50,$37.00
+41-0000 Sales and Related Occupations,J,–,$30.42,$35.02
+41-0000 Sales and Related Occupations,K,$22.18,$34.43,–
+41-0000 Sales and Related Occupations,L,$21.27,$31.71,$33.36
+41-0000 Sales and Related Occupations,M,$21.03,$26.37,–
+41-0000 Sales and Related Occupations,N,$21.37,$32.16,$34.71
+41-0000 Sales and Related Occupations,O,$19.54,$26.90,$34.47
+41-0000 Sales and Related Occupations,P,$21.98,$27.83,$37.36
+41-0000 Sales and Related Occupations,Q,$20.81,$29.54,$33.60
+41-0000 Sales and Related Occupations,R,–,$38.53,$42.84
+41-0000 Sales and Related Occupations,S,$22.56,$27.79,$32.36
+41-0000 Sales and Related Occupations,T,$23.21,–,$34.73
+41-0000 Sales and Related Occupations,U,$21.38,–,$34.00
+43-0000 Office and Administrative Support Occupations,V,$20.01,$23.71,$27.29
+43-0000 Office and Administrative Support Occupations,W,$24.47,$29.62,$29.93
+43-0000 Office and Administrative Support Occupations,X,$23.62,$25.62,$31.45
+43-0000 Office and Administrative Support Occupations,Y,$20.40,$23.96,$28.09
+43-0000 Office and Administrative Support Occupations,Z,$21.75,$23.73,$28.12
+43-0000 Office and Administrative Support Occupations,AA,$20.48,$23.12,$26.28
+ 43-0000 Office and Administrative Support Occupations ,BB,$23.17,$26.71,$30.23
+43-0000 Office and Administrative Support Occupations,CC,$20.79,$24.39,$25.03
+43-0000 Office and Administrative Support Occupations,DD,$22.46,$25.86,$30.06
+43-0000 Office and Administrative Support Occupations,EE,$24.47,$28.26,$33.87
+43-0000 Office and Administrative Support Occupations,FF,$21.78,$26.77,$29.88
+43-0000 Office and Administrative Support Occupations,GG,$21.69,$22.51,$27.03
+43-0000 Office and Administrative Support Occupations,HH,$27.28,$29.92,$33.80
+43-0000 Office and Administrative Support Occupations,II,$26.28,$26.34,$32.47
+43-0000 Office and Administrative Support Occupations,JJ,$22.13,$26.15,$29.95
+47-0000 Construction and Extraction Occupations,KK,$21.51,–,$31.30
+47-0000 Construction and Extraction Occupations,LL,–,$32.12,$40.43
+47-0000 Construction and Extraction Occupations,MM,–,$37.10,$39.60
+47-0000 Construction and Extraction Occupations,OO,$21.59,–,$30.15
+47-0000 Construction and Extraction Occupations,PP,$23.35,–,$34.76
+47-0000 Construction and Extraction Occupations,QQ,$21.93,$26.13,$30.61
+47-0000 Construction and Extraction Occupations,RR,$26.44,$35.11,$38.41
+47-0000 Construction and Extraction Occupations,SS,–,$35.34,$39.72
+47-0000 Construction and Extraction Occupations,TT,$25.02,$33.42,$40.43
+47-0000 Construction and Extraction Occupations,UU,–,$32.15,$34.49
+47-0000 Construction and Extraction Occupations,VV,$23.93,$28.28,$32.20
+47-0000 Construction and Extraction Occupations,WW,$31.37,$35.64,$44.11
+47-0000 Construction and Extraction Occupations,XX,$29.62,$36.04,$41.28
+47-0000 Construction and Extraction Occupations,YY,$23.99,$28.81,$34.71
+"49-0000 Installation, Maintenance, and Repair Occupations",ZZ,$23.33,$24.58,$30.67
+"49-0000 Installation, Maintenance, and Repair Occupations",AAA,–,$30.74,$33.82
+"49-0000 Installation, Maintenance, and Repair Occupations",BBB,$23.81,$29.58,$33.95
+"49-0000 Installation, Maintenance, and Repair Occupations",CCC,$20.11,$25.78,$30.80
+"49-0000 Installation, Maintenance, and Repair Occupations",DDD,$22.21,$27.20,$30.05
+"49-0000 Installation, Maintenance, and Repair Occupations",EEE,$20.34,$25.76,$30.07
+"49-0000 Installation, Maintenance, and Repair Occupations",FFF,$24.22,–,$35.63
+"49-0000 Installation, Maintenance, and Repair Occupations",GGG,$21.21,$22.77,$30.12
+"49-0000 Installation, Maintenance, and Repair Occupations",HHH,–,$29.35,$32.85
+"49-0000 Installation, Maintenance, and Repair Occupations",III,$23.56,$30.50,$34.11
+"49-0000 Installation, Maintenance, and Repair Occupations",JJJ,$23.24,$28.24,$30.13
+"49-0000 Installation, Maintenance, and Repair Occupations",KKK,$21.13,$24.19,$32.82
+"49-0000 Installation, Maintenance, and Repair Occupations",LLL,–,$28.15,$35.78
+"49-0000 Installation, Maintenance, and Repair Occupations",MMM,$25.17,$27.39,$31.92
+ 51-0000 Production Occupations ,NNN,$25.10,$25.23,$32.40
+51-0000 Production Occupations,OOO,$21.80,$23.17,$31.35
+51-0000 Production Occupations,PPP,$20.52,$23.02,$26.83
+51-0000 Production Occupations,QQQ,–,$22.43,$30.80
+51-0000 Production Occupations,RRR,–,$22.97,–
+51-0000 Production Occupations,SSS,$21.06,$24.72,$32.75
+51-0000 Production Occupations,TTT,$19.73,$24.14,–
+51-0000 Production Occupations,UUU,–,$25.81,–
+51-0000 Production Occupations,VVV,$24.08,$26.05,$27.66
+51-0000 Production Occupations,WWW,$23.84,$25.73,–
+51-0000 Production Occupations,XXX,$22.78,–,$30.51
+51-0000 Production Occupations,YYY,$25.52,$26.20,–
+51-0000 Production Occupations,ZZZ,$27.67,$27.23,$35.64
+51-0000 Production Occupations,AAAA,$22.77,$26.74,$31.63
+53-0000 Transportation and Material Moving Occupations,BBBB,$29.10,$30.89,–
+53-0000 Transportation and Material Moving Occupations,CCCC,$29.80,$31.09,–
+53-0000 Transportation and Material Moving Occupations,DDDD,$27.89,$27.82,–
+53-0000 Transportation and Material Moving Occupations,EEEE,–,–,$33.39
+53-0000 Transportation and Material Moving Occupations,FFFF,$27.08,$27.17,$37.18
+53-0000 Transportation and Material Moving Occupations,GGGG,$27.69,$25.93,–
+53-0000 Transportation and Material Moving Occupations,HHHH,$31.12,$29.29,–
+53-0000 Transportation and Material Moving Occupations,IIII,$31.57,$35.89,$38.62
+53-0000 Transportation and Material Moving Occupations,JJJJ,$30.78,$24.98,–
+53-0000 Transportation and Material Moving Occupations,KKKK,–,$27.67,–
+53-0000 Transportation and Material Moving Occupations,LLLL,$31.51,$30.86,–
+53-0000 Transportation and Material Moving Occupations,MMMM,$30.29,$28.02,$38.99
