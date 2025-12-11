@@ -1,3 +1,4 @@
 # PLEASE SEE
 
-For the clearest and best version of the infographic to read, please view the infographic.pdf in the repository. Other imbedded images may be of lower quality due to Canva upload limits.
+For the clearest and best version of the infographic to read, please view the **Dataset - AI and the Job Market What do we discover.pdf**
+ in the repository. Other imbedded images may be of lower quality due to Canva upload limits.
